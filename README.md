@@ -23,14 +23,22 @@ The aim was to:
    - Aggregating
    - Transforming as necessary
 
-3. **OLAP Dashboard Application**:  
+3. **OLAP Dashboard Application**:
    Develop an OLAP dashboard in **Tableau** to display analytical reports using data from the warehouse. The application demonstrates OLAP operations such as:
    - **Roll-up**
    - **Drill-down**
    - **Slice**
    - **Dice**
+   
+   ![image](https://github.com/user-attachments/assets/aca2d4c6-1c66-4ae9-b51b-7ae57ba15860)
 
-4. **Query Processing and Optimization**:  
+   #### **Queries:**
+   - **Total number of games released each month in year X** with their average playtime, and positive/negative review counts.
+   - **Games with a Metacritic score greater than X in the Y genre**, and with estimated owners greater than Z.
+   - **Developers with Game/s of Genre X** that have at least Y positive reviews.
+   - **Top 100 Games in X genre** based on popularity.
+     
+5. **Query Processing and Optimization**:  
    Apply query processing and optimization strategies to evaluate query performance in terms of speed and efficiency.
 
 ---
